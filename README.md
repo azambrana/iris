@@ -12,4 +12,9 @@ El conjunto de datos de la flor de iris es un conjunto específico de informaci�
 | Fuente: [Iris Setosa](https://es.wikipedia.org/wiki/Conjunto_de_datos_flor_iris) | Fuente: [Iris Virginica](https://es.wikipedia.org/wiki/Iris_virginica)         | Fuente: [Iris Versicolor](https://es.wikipedia.org/wiki/Iris_versicolor)        |
 
 
+
+Abrir versión de Notebook comparando diferentes modelos de clasificación en Google Colab:
 [![Abrir en Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/azambrana/iris/blob/master/notebooks/AlvaroZambrana-Iris.ipynb)
+
+Abrir versión de Notebook con el uso de Cross Validation en Google Colab:
+[![Abrir en Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/azambrana/iris/blob/master/notebooks/AlvaroZambrana-Iris-XVal.ipynb)
